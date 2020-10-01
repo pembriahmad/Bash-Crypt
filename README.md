@@ -1,6 +1,7 @@
 # Bash-Crypt
 
-Tool for encryption and descriptions file bash script
+Tool for encryption and descriptions file shell script
+#python2
 
 # How To Installations
 
