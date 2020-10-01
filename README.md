@@ -21,4 +21,4 @@ Type in command  ```python2 crypt.py``` to run the script
 
 # Screenshot
 
-![Screenshot1](https://raw.githubusercontent.com/pembriahmad/File-Project/master/Bash-Crypt/Screenshot.jpg)
+![Screenshot1](https://raw.githubusercontent.com/pembriahmad/File-Project/master/Bash-Crypt/Screenshot_20201001-180115.jpg)
