@@ -14,5 +14,9 @@ Tool for encryption and descriptions file shell script
 
 Type in command  ```python2 crypt.py``` to run the script
 
+# Sources 
+ * Github https://github.com/pembriahmad
+ * Gitlab Project https://gitlab.com/pembriahmad/resources
+
 # Screenshot
 ![](https://gitlab.com/pembriahmad/resources/-/raw/master/Bash-Crypt/Screenshot_20201005-132759.jpg)
